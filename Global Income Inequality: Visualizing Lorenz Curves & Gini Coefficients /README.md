@@ -75,27 +75,5 @@ The green line (after redistribution) shifts closer to the line of equality, ref
 
 ---
 
-## 🧩 Next Steps & Project Expansion
-- Simulate additional redistribution scenarios (e.g., multiple tax brackets)
-- Build an interactive dashboard using **Streamlit**
-- Export results as **automated PDF/HTML reports**
-- Integrate with macroeconomic indicators (HDI, GDP per capita, poverty rates)
-
----
-
-## 📁 Project Structure
-├── README.md
-├── analysis_notebook.ipynb
-├── assets/
-│ ├── gini_trend.png
-│ ├── gini_world_map.png
-│ ├── lorenz_idn_2019.png
-│ ├── lorenz_comparison.png
-├── datasets/
-│ └── world_100bin_mod.csv
-
-
----
-
 ## 📚 License
 This project is built on publicly available data from the World Bank PIP and is intended for research and educational purposes only. Redistribution models are theoretical and do not represent real-world policy outcomes.
