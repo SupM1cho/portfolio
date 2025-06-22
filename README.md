@@ -39,14 +39,6 @@ Each folder in this repository represents a single, standalone project. To explo
 2. Open the `README.md` or the Jupyter notebook file inside for a full explanation.
 3. Run or examine the code directly on your local machine or in Google Colab if provided.
 
-## 📬 Contact
-
-Feel free to reach out if you'd like to discuss any project, provide feedback, or collaborate:
-
-- 📧 Email: [your.email@example.com]  
-- 💼 LinkedIn: [linkedin.com/in/yourusername]  
-- 🌐 Portfolio Website: [yourwebsite.com]
-
 ---
 
 > *"Data is a precious thing and will last longer than the systems themselves."* — Tim Berners-Lee
