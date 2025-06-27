@@ -37,7 +37,6 @@ Each folder in this repository represents a single, standalone project. To explo
 
 1. Navigate to the project directory of interest.
 2. Open the `README.md` or the Jupyter notebook file inside for a full explanation.
-3. Run or examine the code directly on your local machine or in Google Colab if provided.
 
 ---
 
